@@ -1,0 +1,16 @@
+{
+  "Monitors": [
+    {
+      "Name": "ViewSonic VX3418-2KPC",
+      "ModelId": "VSC613B",
+      "Laptop": 15,
+      "Desktop": 17
+    },
+    {
+      "Name": "Gigabyte AORUS CV27Q",
+      "ModelId": "GBT2704",
+      "Laptop": 18,
+      "Desktop": 15
+    }
+  ]
+}
