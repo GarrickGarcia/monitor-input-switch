@@ -12,6 +12,8 @@ Use Windows 10 or 11 with DDC/CI enabled on the monitors. Keep the computer whos
 
 The example uses DisplayPort 1 and HDMI 2 for the laptop, and HDMI 1 and DisplayPort for the desktop, on a ViewSonic VX3418-2KPC and a Gigabyte AORUS CV27Q respectively.
 
+For a fresh Codex session on the desktop, follow the [desktop setup guide](docs/desktop-setup.md).
+
 ## Switch
 
 Press **Ctrl+Alt+M** on the computer running the utility. When it runs on the laptop, keep the keyboard connected to the laptop while the monitors show the desktop. Press the same shortcut to return.
